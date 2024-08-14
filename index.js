@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","MUSIC"];
+const statusMessages = ["Pardoss Dev","ArenaSupport"];
 
 
 let currentIndex = 0;
